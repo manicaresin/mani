@@ -1,11 +1,21 @@
 {
-  "name": "mani",
+  "name": "node_cli_01",
+  "author": "Manikandan",
   "version": "1.0.0",
-  "description": "",
+  "description": "'Manikandan ' + 'Who am i? ' + 'Alive or not? ' + 'Done with the world? ' +  'youtube.com @enjoykit ' + 'https://enjoykit.com/'",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
+  "keywords": [],
+
+  "license": "ISC",
+
+  "bugs": {
+    "url": "https://github.com/manicaresin/mani/issues"
+  },
+
   "bin": {
     "mani": "index.js"
   },
