@@ -1,0 +1,20 @@
+{
+  "name": "mani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+
+    "mani": "index.js"
+
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manicaresin/mani.git"
+  },
+  "public": true
+}
