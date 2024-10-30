@@ -1,0 +1,35 @@
+#gitinore
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+target/
+
+# Maven specific files
+.mvn/
+!**/mvn/wrapper/maven-wrapper.jar
+**/mvn/wrapper/maven-wrapper.jar
+
+# Gradle specific files
+.gradle/
+build/
+
+# Logs
+*.log/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Temp files
+tmp/
+*.tmp
+*.swp
