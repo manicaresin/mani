@@ -10,7 +10,7 @@
     "mani": "index.js"
   },
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "public": true
 }
